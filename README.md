@@ -17,7 +17,7 @@ This repository contains a variety of projects, each demonstrating different asp
 
 Feel free to explore the projects, if you encounter any common issues or have suggestions for improvement, your feedback is greatly appreciated!
 
-## Contact
+## Contact Me
 
 - Discord: [@trouvaiilx](https://discordapp.com/users/trouvaiilx)
 
