@@ -1,6 +1,6 @@
-# Project Title
+# First README File
 
-Simple overview of use/purpose.
+This is my first time creation of a README markdown file from a terminal.
 
 ## Description
 
