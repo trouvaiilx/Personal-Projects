@@ -1,10 +1,10 @@
 # First README File
 
-This is my first time creation of a README markdown file from a terminal.
+Only contains README file.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is my first time creation of a README markdown file from a terminal.
 
 ## Getting Started
 
