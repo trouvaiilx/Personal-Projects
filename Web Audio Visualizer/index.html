@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#bc426b">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Audio Visualizer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="audio-player">
+        <input type="file" id="audioFile" accept="audio/*">
+        <div class="youtube-input">
+            <input type="text" id="youtubeUrl" placeholder="Paste YouTube URL here">
+            <button id="loadYoutubeButton">Load YouTube Audio</button>
+        </div>
+        <div id="dropArea">Drop your audio file here or click to select</div>
+        <div id="fileName">No file selected</div>
+        <canvas id="canvas"></canvas>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+        <div class="time-info">
+            <span id="currentTime">0:00</span>
+            <span id="duration">0:00</span>
+        </div>
+        <div class="controls">
+            <button id="playPauseButton" class="play-pause-btn">
+                <svg viewBox="0 0 24 24">
+                    <path class="play-path" d="M8 5v14l11-7z"/>
+                    <path class="pause-path" d="M6 4h4v16H6zm8 0h4v16h-4z"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script src="animations.js"></script>
+    <script src="player.js"></script>
+</body>
+</html>
