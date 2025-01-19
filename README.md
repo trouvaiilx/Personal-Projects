@@ -19,7 +19,6 @@ Feel free to explore the projects, if you encounter any common issues or have su
 
 ## Contact
 
-- Instagram: [@rmnd1kaa](https://instagram.com/rmnd1kaa)
 - Discord: [@trouvaiilx](https://discordapp.com/users/trouvaiilx)
 
 ## License
