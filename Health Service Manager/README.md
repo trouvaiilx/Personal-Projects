@@ -64,4 +64,4 @@ The Medical Health Service Management application is a Java-based GUI program de
 - December 25th, 2024
 
 ## License
-This project is licensed under the MIT License - see the [Personal-Projects/blob/main/LICENSE](LISENCE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](Personal-Projects/blob/main/LISENCE) file for details.
