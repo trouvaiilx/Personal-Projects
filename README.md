@@ -1,4 +1,4 @@
-# College Projects Repository
+# Projects Repository
 
 ## Overview
 
